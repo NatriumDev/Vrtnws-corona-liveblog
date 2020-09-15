@@ -1,6 +1,6 @@
-# VRTNWS corona liveblog overview
+# VRTNWS corona liveblog overzicht
 
-An overview of every corona-liveblog by VRTNWS since the start
+Een overzicht van elke dagelijkse corona-liveblog van VRTNWS sinds het begin van de coronacrisis.
 
 ## September 2020
 
