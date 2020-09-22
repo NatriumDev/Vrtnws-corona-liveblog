@@ -4,7 +4,7 @@ Een overzicht van elke dagelijkse corona-liveblog van VRTNWS sinds het begin van
 
 ## September 2020
 
-* [ 22 september 2020](https://www.vrt.be/vrtnws/nl/2020/09/22/liveblog-22-september-2020/)
+* [22 september 2020](https://www.vrt.be/vrtnws/nl/2020/09/22/liveblog-22-september-2020/)
 * [21 september 2020](https://www.vrt.be/vrtnws/nl/2020/09/21/liveblog-21-september-2020/)
 * [20 september 2020](https://www.vrt.be/vrtnws/nl/2020/09/20/liveblog-20-september/)
 * [19 september 2020](https://www.vrt.be/vrtnws/nl/2020/09/19/liveblog-19-september/)
