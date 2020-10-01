@@ -1,6 +1,10 @@
 # VRTNWS corona liveblog overzicht
 
-Een overzicht van elke dagelijkse corona-liveblog van VRTNWS sinds het begin van de coronacrisis.
+Een overzicht van elke dagelijkse corona-liveblog van [https://www.vrt.be/vrtnws](VRTNWS) sinds het begin van de coronacrisis.
+
+## Oktober 2020
+
+* [1 oktober 2020](https://www.vrt.be/vrtnws/nl/2020/10/01/liveblog-1-oktober-2020/)
 
 ## September 2020
 
