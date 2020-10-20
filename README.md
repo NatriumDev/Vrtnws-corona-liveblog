@@ -4,6 +4,7 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ## Oktober 2020
 
+* [ 20 oktober 2020](https://www.vrt.be/vrtnws/nl/2020/10/19/liveblog-19-oktober-2020/)
 * [19 oktober 2020](https://www.vrt.be/vrtnws/nl/2020/10/19/liveblog-19-oktober-2020/)
 * [18 oktober 2020](https://www.vrt.be/vrtnws/nl/2020/10/18/liveblog-18-oktober/)
 * [17 oktober 2020](https://www.vrt.be/vrtnws/nl/2020/10/17/corona-liveblog-17-oktober/)
