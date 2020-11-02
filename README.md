@@ -2,8 +2,14 @@
 
 Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.be/vrtnws/nl/) sinds het begin van de coronacrisis.
 
+## November 2020
+
+* [2 november 2020](https://www.vrt.be/vrtnws/nl/2020/11/02/liveblog-2-november-2020/)
+* [1 november 2020](https://www.vrt.be/vrtnws/nl/2020/11/01/liveblog-1-november-2020/)
+
 ## Oktober 2020
 
+* [31 oktober 2020](https://www.vrt.be/vrtnws/nl/2020/10/31/liveblog-31-oktober-2020/)
 * [30 oktober 2020](https://www.vrt.be/vrtnws/nl/2020/10/30/liveblog-30-oktober/)
 * [29 oktober 2020](https://www.vrt.be/vrtnws/nl/2020/10/29/liveblog-29-oktober/)
 * [28 oktober 2020](https://www.vrt.be/vrtnws/nl/2020/10/28/liveblog-28-oktober-2020/)
