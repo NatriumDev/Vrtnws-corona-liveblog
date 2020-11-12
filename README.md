@@ -4,6 +4,7 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ## November 2020
 
+* [12 november 2020](https://www.vrt.be/vrtnws/nl/2020/11/12/liveblog-12-november/)
 * [11 november 2020](https://www.vrt.be/vrtnws/nl/2020/11/11/liveblog-11-november-2020/)
 * [10 november 2020](https://www.vrt.be/vrtnws/nl/2020/11/10/liveblog-10-november-2020/)
 * [9 november 2020](https://www.vrt.be/vrtnws/nl/2020/11/09/liveblog-9-november-2020/)
