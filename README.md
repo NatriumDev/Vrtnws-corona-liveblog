@@ -2,8 +2,11 @@
 
 Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.be/vrtnws/nl/) sinds het begin van de coronacrisis.
 
-## December 2020
+## 2020
 
+### December 2020
+
+* [10 decemeber 2020](https://www.vrt.be/vrtnws/nl/2020/12/10/liveblog-10-december-2020/)
 * [9 december 2020](https://www.vrt.be/vrtnws/nl/2020/12/09/liveblog-9-12/)
 * [8 december 2020](https://www.vrt.be/vrtnws/nl/2020/12/08/liveblog-8-december-2020/)
 * [7 december 2020](https://www.vrt.be/vrtnws/nl/2020/12/07/liveblog-7-december/)
@@ -14,7 +17,7 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 * [2 december 2020](https://www.vrt.be/vrtnws/nl/2020/12/02/liveblog-2-december/)
 * [1 december 2020](https://www.vrt.be/vrtnws/nl/2020/12/01/liveblog-1-december/)
 
-## November 2020
+### November 2020
 
 * [30 november 2020](https://www.vrt.be/vrtnws/nl/2020/11/30/liveblog-30-november-2021/)
 * [29 november 2020](https://www.vrt.be/vrtnws/nl/2020/11/29/liveblog-29-november/)
@@ -47,7 +50,7 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 * [2 november 2020](https://www.vrt.be/vrtnws/nl/2020/11/02/liveblog-2-november-2020/)
 * [1 november 2020](https://www.vrt.be/vrtnws/nl/2020/11/01/liveblog-1-november-2020/)
 
-## Oktober 2020
+### Oktober 2020
 
 * [31 oktober 2020](https://www.vrt.be/vrtnws/nl/2020/10/31/liveblog-31-oktober-2020/)
 * [30 oktober 2020](https://www.vrt.be/vrtnws/nl/2020/10/30/liveblog-30-oktober/)
@@ -81,7 +84,7 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 * [2 oktober 2020](https://www.vrt.be/vrtnws/nl/2020/10/02/liveblog-corona-2-oktober-2020/)
 * [1 oktober 2020](https://www.vrt.be/vrtnws/nl/2020/10/01/liveblog-1-oktober-2020/)
 
-## September 2020
+### September 2020
 
 * [30 september 2020](https://www.vrt.be/vrtnws/nl/2020/09/30/liveblog-corona-30-september/)
 * [29 september 2020](https://www.vrt.be/vrtnws/nl/2020/09/29/liveblog-29-september-2020/)
@@ -114,7 +117,7 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 * [2 september 2020](https://www.vrt.be/vrtnws/nl/2020/09/02/liveblog-2-september-2020/)
 * [1 september 2020](https://www.vrt.be/vrtnws/nl/2020/09/01/liveblog-1-september/)
 
-## Augustus 2020
+### Augustus 2020
 
 * [31 augustus 2020](https://www.vrt.be/vrtnws/nl/2020/08/31/liveblog-31-augustus-2020/)
 * [30 augustus 2020](https://www.vrt.be/vrtnws/nl/2020/08/30/liveblog-30-augustus-2020/)
@@ -148,7 +151,7 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 * [2 augustus 2020](https://www.vrt.be/vrtnws/nl/2020/08/02/liveblog-2-augustus/)
 * [1 augustus 2020](https://www.vrt.be/vrtnws/nl/2020/08/01/liveblog-1-augustus/)
 
-## Juli 2020
+### Juli 2020
 
 * [31 juli 2020](https://www.vrt.be/vrtnws/nl/2020/07/31/liveblog-31-juli-2020/)
 * [30 juli 2020](https://www.vrt.be/vrtnws/nl/2020/07/30/liveblog-donderdag-30-juli-2020/)
@@ -182,7 +185,7 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 * [2 juli 2020](https://www.vrt.be/vrtnws/nl/2020/07/02/liveblog-2-juli/)
 * [1 juli 2020](https://www.vrt.be/vrtnws/nl/2020/07/01/liveblog-1-juli/)
 
-## Juni 2020
+### Juni 2020
 
 * [30 juni 2020](https://www.vrt.be/vrtnws/nl/2020/06/30/liveblog-30-juni/)
 * [29 juni 2020](https://www.vrt.be/vrtnws/nl/2020/06/29/liveblog-29-juni/)
@@ -215,7 +218,7 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 * [2 juni 2020](https://www.vrt.be/vrtnws/nl/2020/06/02/liveblog-2-juni/)
 * [1 juni 2020](https://www.vrt.be/vrtnws/nl/2020/06/01/liveblog-1-juni/)
 
-## Mei 2020
+### Mei 2020
 
 * [31 mei 2020](https://www.vrt.be/vrtnws/nl/2020/05/31/liveblog-31-mei/)
 * [30 mei 2020](https://www.vrt.be/vrtnws/nl/2020/05/29/liveblog-30-mei/)
@@ -249,7 +252,7 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 * [2 mei 2020](https://www.vrt.be/vrtnws/nl/2020/05/02/liveblog-2-mei-2020/)
 * [1 mei 2020](https://www.vrt.be/vrtnws/nl/2020/05/01/liveblog-1-mei/)
 
-## April 2020
+### April 2020
 
 * [30 april 2020](https://www.vrt.be/vrtnws/nl/2020/04/30/liveblog-30-april/)
 * [29 april 2020](https://www.vrt.be/vrtnws/nl/2020/04/29/coronaliveblog-29-april/)
@@ -282,7 +285,7 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 * [2 april 2020](https://www.vrt.be/vrtnws/nl/2020/04/02/liveblog-2-april/)
 * [1 april 2020](https://www.vrt.be/vrtnws/nl/2020/04/01/liveblog-1-april/)
 
-## Maart 2020
+### Maart 2020
 
 * [31 maart 2020](https://www.vrt.be/vrtnws/nl/2020/03/31/liveblog-31-maart/)
 * [30 maart 2020](https://www.vrt.be/vrtnws/nl/2020/03/30/liveblog-30-maart/)
