@@ -6,6 +6,7 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ### December 2020
 
+* [16 december 2020](https://www.vrt.be/vrtnws/nl/2020/12/16/liveblog-16-december/)
 * [15 december 2020](https://www.vrt.be/vrtnws/nl/2020/12/15/liveblog-15-december/)
 * [14 december 2020](https://www.vrt.be/vrtnws/nl/2020/12/14/liveblog-14-december-2020/)
 * [13 december 2020](https://www.vrt.be/vrtnws/nl/2020/12/13/liveblog-13-december/)
