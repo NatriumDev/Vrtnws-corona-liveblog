@@ -2,6 +2,14 @@
 
 Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.be/vrtnws/nl/) sinds het begin van de coronacrisis.
 
+## 2021
+
+### Januari 2021
+
+* [3 januari 2021](https://www.vrt.be/vrtnws/nl/2021/01/03/liveblog-3-januari-2021/)
+* [2 januari 2021](https://www.vrt.be/vrtnws/nl/2021/01/02/liveblog-2-januari-2021/)
+* [1 januari 2021](https://www.vrt.be/vrtnws/nl/2021/01/01/liveblog-corona-1-januari-2021/)
+
 ## 2020
 
 ### December 2020
