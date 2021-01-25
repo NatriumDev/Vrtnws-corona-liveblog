@@ -6,6 +6,9 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ### Januari 2021
 
+* [25 januari 2021](https://www.vrt.be/vrtnws/nl/2021/01/25/liveblog-25-januari-2021/)
+* [24 januari 2021](https://www.vrt.be/vrtnws/nl/2021/01/24/liveblog-24-januari-2020/)
+* [23 januari 2021](https://www.vrt.be/vrtnws/nl/2021/01/23/liveblog-23-januari/)
 * [22 januari 2021](https://www.vrt.be/vrtnws/nl/2021/01/22/liveblog-22-januari-2021/)
 * [21 januari 2021](https://www.vrt.be/vrtnws/nl/2021/01/21/liveblog-21-januari-2021/)
 * [20 januari 2021](https://www.vrt.be/vrtnws/nl/2021/01/20/liveblog-20-januari-2021/)
