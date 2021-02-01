@@ -4,6 +4,10 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ## 2021
 
+### Februari 2021
+
+* [1 februari 2021](https://www.vrt.be/vrtnws/nl/2021/02/01/liveblog-1-februari-2021/)
+
 ### Januari 2021
 
 * [31 januari 2021](https://www.vrt.be/vrtnws/nl/2021/01/31/liveblog-corona-31-januari-2021/)
