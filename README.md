@@ -6,6 +6,7 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ### Februari 2021
 
+* [11 februari 2021](https://www.vrt.be/vrtnws/nl/2021/02/11/liveblog-corona-11-februari-2021/)
 * [10 februari 2021](https://www.vrt.be/vrtnws/nl/2021/02/10/liveblog-corona-10-februari-2021/)
 * [9 februari 2021](https://www.vrt.be/vrtnws/nl/2021/02/09/liveblog-9-februari-2021/)
 * [8 februari 2021](https://www.vrt.be/vrtnws/nl/2021/02/08/liveblog-8-februari-2021/)
