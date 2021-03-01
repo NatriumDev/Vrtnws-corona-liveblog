@@ -4,9 +4,15 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ## 2021
 
+### Maart 2021
+
+* [1 maart 2021](https://www.vrt.be/vrtnws/nl/2021/03/01/liveblog-1-maart-2021/)
+
 ### Februari 2021
 
-* [ 26 februari 2021](https://www.vrt.be/vrtnws/nl/2021/02/26/liveblog-26-februari-2021/)
+* [28 februari 2021](https://www.vrt.be/vrtnws/nl/2021/02/28/liveblog-corona-28-februari/)
+* [27 februari 2021](https://www.vrt.be/vrtnws/nl/2021/02/27/liveblog-corona-27-februari/)
+* [26 februari 2021](https://www.vrt.be/vrtnws/nl/2021/02/26/liveblog-26-februari-2021/)
 * [25 februari 2021](https://www.vrt.be/vrtnws/nl/2021/02/25/liveblog-25-februari-2021/)
 * [24 februari 2021](https://www.vrt.be/vrtnws/nl/2021/02/24/liveblog-24-februari-2021/)
 * [23 februari 2021](https://www.vrt.be/vrtnws/nl/2021/02/23/liveblog-corona-23-februari/)
