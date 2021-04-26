@@ -6,6 +6,7 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ### April 2021
 
+* [26 april 2021](https://www.vrt.be/vrtnws/nl/2021/04/26/liveblog-26-april-2021/)
 * [25 april 2021](https://www.vrt.be/vrtnws/nl/2021/04/25/liveblog-25-april-2021/)
 * [24 april 2021](https://www.vrt.be/vrtnws/nl/2021/04/24/liveblog-24-april-2021/)
 * [23 april 2021](https://www.vrt.be/vrtnws/nl/2021/04/23/liveblog-23-april-2021/)
