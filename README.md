@@ -6,6 +6,8 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ### Mei 2021
 
+* [10 mei 2021](https://www.vrt.be/vrtnws/nl/2021/05/10/liveblog-10-mei-2021/)
+* [9 mei 2021](https://www.vrt.be/vrtnws/nl/2021/05/09/liveblog-corona-9-mei-2021/)
 * [8 mei 2021](https://www.vrt.be/vrtnws/nl/2021/05/08/liveblog-8-mei-2021/)
 * [7 mei 2021](https://www.vrt.be/vrtnws/nl/2021/05/07/liveblog-7-mei-2021/)
 * [6 mei 2021](https://www.vrt.be/vrtnws/nl/2021/05/06/liveblog-corona-6-mei-2021/)
