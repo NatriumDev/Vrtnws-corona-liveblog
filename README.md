@@ -6,6 +6,7 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ### Juni 2021
 
+* [15 juni 2021](https://www.vrt.be/vrtnws/nl/2021/06/15/coronablog-15-juni-2021/)
 * [14 juni 2021](https://www.vrt.be/vrtnws/nl/2021/06/14/coronablog-14-juni-2021/)
 * [13 juni 2021](https://www.vrt.be/vrtnws/nl/2021/06/13/coronablog-13-juni/)
 * [12 juni 2021](https://www.vrt.be/vrtnws/nl/2021/06/12/coronablog-12-juni-2021/)
