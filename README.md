@@ -4,8 +4,19 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ## 2021
 
-### Juli 2021
+### Augustus 2021
 
+* [7 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/07/liveblog-7-augustus/)
+* [6 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/06/coronablog-6-augustus-2021/)
+* [5 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/05/coronablog-5-augustus-2021/)
+* [4 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/04/coronablog-4-augustus-2021/)
+* [3 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/03/coronablog-3-augustus/)
+* [2 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/02/coronablog-2-augustus/)
+* 1 augustus 2021: geen blog voor die dag?
+
+### Juli 2021
+* [31 juli 2021](https://www.vrt.be/vrtnws/nl/2021/07/31/coronablog-31-juli-2021/)
+* todo
 * [16 juli 2021](https://www.vrt.be/vrtnws/nl/2021/07/16/coronablog-16-juli-2021/)
 * [15 juli 2021](https://www.vrt.be/vrtnws/nl/2021/07/15/coronablog-15-juli-2021/)
 * [14 juli 2021](https://www.vrt.be/vrtnws/nl/2021/07/14/coronablog-14-juli-2021/)
