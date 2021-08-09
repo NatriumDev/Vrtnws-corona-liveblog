@@ -6,17 +6,33 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ### Augustus 2021
 
+* [9 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/09/coronablog-9-augustus-2021/)
+* 8 augustus 2021: geen blog voor deze dag
 * [7 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/07/liveblog-7-augustus/)
 * [6 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/06/coronablog-6-augustus-2021/)
 * [5 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/05/coronablog-5-augustus-2021/)
 * [4 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/04/coronablog-4-augustus-2021/)
 * [3 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/03/coronablog-3-augustus/)
 * [2 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/02/coronablog-2-augustus/)
-* 1 augustus 2021: geen blog voor die dag?
+* 1 augustus 2021: geen blog voor deze dag
 
 ### Juli 2021
+
 * [31 juli 2021](https://www.vrt.be/vrtnws/nl/2021/07/31/coronablog-31-juli-2021/)
-* todo
+* 30 juli 2021: geen blog voor deze dag
+* [29 juli 2021](https://www.vrt.be/vrtnws/nl/2021/07/29/coronablog-29-juli-2021/)
+* [28 juli 2021](https://www.vrt.be/vrtnws/nl/2021/07/28/coronablog-28-juli-2021/)
+* [27 juli 2021](https://www.vrt.be/vrtnws/nl/2021/07/27/coronablog-27-juli-2021/)
+* [26 juli 2021](https://www.vrt.be/vrtnws/nl/2021/07/26/coronablog-26-juli-2021/)
+* 25 juli 2021: geen blog voor deze dag
+* [24 juli 2021](https://www.vrt.be/vrtnws/nl/2021/07/24/coronablog-24-juli-2021/)
+* [23 juli 2021](https://www.vrt.be/vrtnws/nl/2021/07/23/coronablog-23-juli-2021/)
+* [22 juli 2021](https://www.vrt.be/vrtnws/nl/2021/07/22/coronablog-22-juli-2021/)
+* [21 juli 2021](https://www.vrt.be/vrtnws/nl/2021/07/21/coronablog-21-juli-2021/)
+* [20 juli 2021](https://www.vrt.be/vrtnws/nl/2021/07/20/coronablog-20-juli-2021/)
+* [19 juli 2021](https://www.vrt.be/vrtnws/nl/2021/07/19/coronablog-19-juli-2021/)
+* [18 juli 2021](https://www.vrt.be/vrtnws/nl/2021/07/18/coronablog-18-juli-2021/)
+* [17 juli 2021](https://www.vrt.be/vrtnws/nl/2021/07/17/coronablog-17-juli-2021/)
 * [16 juli 2021](https://www.vrt.be/vrtnws/nl/2021/07/16/coronablog-16-juli-2021/)
 * [15 juli 2021](https://www.vrt.be/vrtnws/nl/2021/07/15/coronablog-15-juli-2021/)
 * [14 juli 2021](https://www.vrt.be/vrtnws/nl/2021/07/14/coronablog-14-juli-2021/)
