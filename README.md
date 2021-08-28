@@ -6,6 +6,19 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ### Augustus 2021
 
+* [27 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/27/coronablog-27-augustus-2021/)
+* [26 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/26/coronablog-26-augustus-2021/)
+* [25 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/25/coronablog-25-augustus-2021/)
+* [24 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/24/coronablog-24-augustus-2021/)
+* [23 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/23/coronablog-23-augustus-2021/)
+* [22 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/22/coronablog-22-augustus-2021/)
+* [21 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/21/coronablog-21-augustus-2021/)
+* [20 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/20/coronablog-20-augustus-2021/)
+* [19 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/19/coronablog-19-augustus-2021/)
+* [18 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/18/coronablog-18-augustus-2021/)
+* [17 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/17/coronablog-17-augustus-2021/)
+* [16 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/16/coronablog-16-augustus-2021/)
+* [15 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/15/coronablog-15-augustus-2021/)
 * [14 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/14/coronablog-14-augustus-2021/)
 * [13 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/13/coronablog-13-augustus/)
 * [12 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/12/coronablog-12-augustus/)
