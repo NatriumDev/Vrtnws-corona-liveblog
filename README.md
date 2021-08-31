@@ -6,6 +6,7 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ### Augustus 2021
 
+* [31 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/31/coronablog-31-augustus-2021/)
 * [30 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/30/coronablog-30-augustus-2021/)
 * [29 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/29/coronablog-29-augustus-2021/)
 * [28 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/28/coronablog-28-augustus-2021/)
