@@ -6,6 +6,10 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ### September 2021
 
+* 7 september 2021: geen blog voor deze dag
+* 6 september 2021: geen blog voor deze dag
+* 5 september 2021: geen blog voor deze dag
+* 4 september 2021: geen blog voor deze dag
 * 3 september 2021: geen blog voor deze dag
 * 2 september 2021: geen blog voor deze dag
 * [1 september 2021](https://www.vrt.be/vrtnws/nl/2021/09/01/coronablog/)
