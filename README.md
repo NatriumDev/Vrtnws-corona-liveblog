@@ -6,7 +6,15 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ### September 2021
 
-* 8 september 2021: geen blog voor deze dag. Vrt Nws lijkt de liveblog volledig gestopt te hebben.
+* [16 september 2021](https://www.vrt.be/vrtnws/nl/2021/09/16/coronablog-overlegcomite/)
+* 15 september 2021: geen blog voor deze dag.
+* 14 september 2021: geen blog voor deze dag
+* 13 september 2021: geen blog voor deze dag
+* 12 september 2021: geen blog voor deze dag
+* 11 september 2021: geen blog voor deze dag
+* 10 september 2021: geen blog voor deze dag
+* 9 september 2021: geen blog voor deze dag
+* 8 september 2021: geen blog voor deze dag.
 * 7 september 2021: geen blog voor deze dag
 * 6 september 2021: geen blog voor deze dag
 * 5 september 2021: geen blog voor deze dag
