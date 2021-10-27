@@ -4,23 +4,15 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ## 2021
 
+* [27 oktober 2021](https://www.vrt.be/vrtnws/nl/2021/10/27/coronablog-27-oktober-2021/)
+* [26 oktober 2021](https://www.vrt.be/vrtnws/nl/2021/10/26/coronablog-26-oktober-2021/)
+* Tussentijds was er geen blog.
+
 ### September 2021
 
+* Tussentijds was er geen blog.
 * [16 september 2021](https://www.vrt.be/vrtnws/nl/2021/09/16/coronablog-overlegcomite/)
-* 15 september 2021: geen blog voor deze dag.
-* 14 september 2021: geen blog voor deze dag
-* 13 september 2021: geen blog voor deze dag
-* 12 september 2021: geen blog voor deze dag
-* 11 september 2021: geen blog voor deze dag
-* 10 september 2021: geen blog voor deze dag
-* 9 september 2021: geen blog voor deze dag
-* 8 september 2021: geen blog voor deze dag.
-* 7 september 2021: geen blog voor deze dag
-* 6 september 2021: geen blog voor deze dag
-* 5 september 2021: geen blog voor deze dag
-* 4 september 2021: geen blog voor deze dag
-* 3 september 2021: geen blog voor deze dag
-* 2 september 2021: geen blog voor deze dag
+* Tussentijds was er geen blog.
 * [1 september 2021](https://www.vrt.be/vrtnws/nl/2021/09/01/coronablog/)
 
 ### Augustus 2021
