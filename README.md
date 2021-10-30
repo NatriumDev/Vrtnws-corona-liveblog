@@ -6,6 +6,7 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ### Oktober 2021
 
+* [30 oktober 2021](https://www.vrt.be/vrtnws/nl/2021/10/30/coronablog-30-oktober-2021/)
 * [29 oktober 2021](https://www.vrt.be/vrtnws/nl/2021/10/29/coronablog-29-oktober-2021/)
 * [28 oktober 2021](https://www.vrt.be/vrtnws/nl/2021/10/28/coronablog-28-oktober-2021/)
 * [27 oktober 2021](https://www.vrt.be/vrtnws/nl/2021/10/27/coronablog-27-oktober-2021/)
