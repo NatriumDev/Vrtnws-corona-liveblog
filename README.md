@@ -4,8 +4,27 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ## 2021
 
+### Oktober 2021
+
+* [29 oktober 2021](https://www.vrt.be/vrtnws/nl/2021/10/29/coronablog-29-oktober-2021/)
+* [28 oktober 2021](https://www.vrt.be/vrtnws/nl/2021/10/28/coronablog-28-oktober-2021/)
+* [27 oktober 2021](https://www.vrt.be/vrtnws/nl/2021/10/27/coronablog-27-oktober-2021/)
+* [26 oktober 2021](https://www.vrt.be/vrtnws/nl/2021/10/26/coronablog-26-oktober-2021/)
+* Tussentijds was er geen blog.
+
+### September 2021
+
+* Tussentijds was er geen blog.
+* [16 september 2021](https://www.vrt.be/vrtnws/nl/2021/09/16/coronablog-overlegcomite/)
+* Tussentijds was er geen blog.
+* [1 september 2021](https://www.vrt.be/vrtnws/nl/2021/09/01/coronablog/)
+
 ### Augustus 2021
 
+* [31 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/31/coronablog-31-augustus-2021/)
+* [30 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/30/coronablog-30-augustus-2021/)
+* [29 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/29/coronablog-29-augustus-2021/)
+* [28 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/28/coronablog-28-augustus-2021/)
 * [27 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/27/coronablog-27-augustus-2021/)
 * [26 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/26/coronablog-26-augustus-2021/)
 * [25 augustus 2021](https://www.vrt.be/vrtnws/nl/2021/08/25/coronablog-25-augustus-2021/)
