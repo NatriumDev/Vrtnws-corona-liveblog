@@ -4,8 +4,13 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ## 2021
 
+### November 2021
+* [12 november 2021](https://www.vrt.be/vrtnws/nl/2021/11/12/coronablog-12-november-2021/)
+* Tussentijds was er geen blog.
+
 ### Oktober 2021
 
+* Tussentijds was er geen blog.
 * [30 oktober 2021](https://www.vrt.be/vrtnws/nl/2021/10/30/coronablog-30-oktober-2021/)
 * [29 oktober 2021](https://www.vrt.be/vrtnws/nl/2021/10/29/coronablog-29-oktober-2021/)
 * [28 oktober 2021](https://www.vrt.be/vrtnws/nl/2021/10/28/coronablog-28-oktober-2021/)
