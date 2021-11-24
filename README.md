@@ -6,6 +6,7 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ### November 2021
 
+* [24 november 2021](https://www.vrt.be/vrtnws/nl/2021/11/24/coronablog-24-november-2021/)
 * [23 november 2021](https://www.vrt.be/vrtnws/nl/2021/11/23/coronablog-23-november-2021/)
 * [22 november 2021](https://www.vrt.be/vrtnws/nl/2021/11/22/coronablog-22-november-2021/)
 * [21 november 2021](https://www.vrt.be/vrtnws/nl/2021/11/21/betoging-in-brussel-tegen-coronamaatregelen/)
