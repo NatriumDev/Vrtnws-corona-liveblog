@@ -6,6 +6,9 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ### November 2021
 
+* [29 november 2021](https://www.vrt.be/vrtnws/nl/2021/11/29/coronablog-29-november-2021/)
+* [28 november 2021](https://www.vrt.be/vrtnws/nl/2021/11/28/coronablog-28-november-2021/)
+* [27 november 2021](https://www.vrt.be/vrtnws/nl/2021/11/27/coronablog-27-november/)
 * [26 november 2021](https://www.vrt.be/vrtnws/nl/2021/11/26/coronablog-26-november/)
 * [25 november 2021](https://www.vrt.be/vrtnws/nl/2021/11/25/coronablog-25-november-2021/)
 * [24 november 2021](https://www.vrt.be/vrtnws/nl/2021/11/24/coronablog-24-november-2021/)
