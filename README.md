@@ -6,6 +6,7 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ### December 2021
 
+* [13 december 2021](https://www.vrt.be/vrtnws/nl/2021/12/13/coronablog-13-december-2021/)
 * 12 december 2021: geen blog voor deze dag
 * 11 december 2021: geen blog voor deze dag
 * [10 december 2021](https://www.vrt.be/vrtnws/nl/2021/12/10/coronablog-10-december/)
