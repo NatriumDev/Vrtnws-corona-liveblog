@@ -6,6 +6,7 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ### December 2021
 
+* [21 december 2021](https://www.vrt.be/vrtnws/nl/2021/12/21/coronablog-21-december-2021/)
 * [20 december 2021](https://www.vrt.be/vrtnws/nl/2021/12/20/coronablog-20-december-2021/)
 * [19 december 2021](https://www.vrt.be/vrtnws/nl/2021/12/19/coronablog-19-december-2021/)
 * [18 december 2021](https://www.vrt.be/vrtnws/nl/2021/12/18/coronablog-18-december-2021/)
