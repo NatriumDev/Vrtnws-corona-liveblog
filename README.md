@@ -2,6 +2,13 @@
 
 Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.be/vrtnws/nl/) sinds het begin van de coronacrisis.
 
+## 2022
+
+### Januari 2022
+
+* [2 januari 2022](https://www.vrt.be/vrtnws/nl/2022/01/02/coronablog-zondag-2-januari-2022/)
+* [1 januari 2022](https://www.vrt.be/vrtnws/nl/2022/01/01/coronablog-1-januari/)
+
 ## 2021
 
 ### December 2021
