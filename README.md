@@ -6,6 +6,7 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ### Januari 2022
 
+* [4 januari 2022](https://www.vrt.be/vrtnws/nl/2022/01/04/coronablog-4-januari-2022/)
 * [3 januari 2022](https://www.vrt.be/vrtnws/nl/2022/01/03/coronablog-maandag-3-januari-2022/)
 * [2 januari 2022](https://www.vrt.be/vrtnws/nl/2022/01/02/coronablog-zondag-2-januari-2022/)
 * [1 januari 2022](https://www.vrt.be/vrtnws/nl/2022/01/01/coronablog-1-januari/)
