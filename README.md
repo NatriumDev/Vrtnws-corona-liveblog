@@ -6,7 +6,10 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ### Januari 2022
 
-* [20 februari 2022](https://www.vrt.be/vrtnws/nl/2022/01/20/coronablog-20-januari-2022/)
+* [23 januari 2022](https://www.vrt.be/vrtnws/nl/2022/01/23/coronablog-23-januari-2021/)
+* [22 januari 2022](https://www.vrt.be/vrtnws/nl/2022/01/22/coronablog-22-januari/)
+* [21 januari 2022](https://www.vrt.be/vrtnws/nl/2022/01/21/coronablog-vrijdag-21-januari-2021/)
+* [20 januari 2022](https://www.vrt.be/vrtnws/nl/2022/01/20/coronablog-20-januari-2022/)
 * [19 januari 2022](https://www.vrt.be/vrtnws/nl/2022/01/19/coronablog-19-januari-2021/)
 * [18 januari 2022](https://www.vrt.be/vrtnws/nl/2022/01/18/coronablog-18-januari-2021/)
 * [17 januari 2022](https://www.vrt.be/vrtnws/nl/2022/01/17/liveblog-maandag-17-januari-2022/)
