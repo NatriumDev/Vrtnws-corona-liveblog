@@ -4,9 +4,17 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ## 2022
 
+### Februari 2022
+
+* [2 februari 2022](https://www.vrt.be/vrtnws/nl/2022/02/02/coronablog-2-februari-2022/)
+* 1 februari 2022: geen blog voor deze dag
+
 ### Januari 2022
 
-* [28 januari 2022]()
+* [31 januari 2022](https://www.vrt.be/vrtnws/nl/2022/01/31/coronablog-376-patienten-op-intensieve-zorg-piek-in-cijfers-n/)
+* [30 januari 2022](https://www.vrt.be/vrtnws/nl/2022/01/30/coronablog-zondag-30-januari-2022/)
+* [29 januari 2022](https://www.vrt.be/vrtnws/nl/2022/01/29/coronablog-29-januari-2022/)
+* [28 januari 2022](https://www.vrt.be/vrtnws/nl/2022/01/28/coronablog-28-januari-2022/)
 * [27 januari 2022](https://www.vrt.be/vrtnws/nl/2022/01/27/coronablog-27-januari-2022/)
 * [26 januari 2022](https://www.vrt.be/vrtnws/nl/2022/01/26/coronablog-woensdag-26-januari-2022/)
 * [25 januari 2022](https://www.vrt.be/vrtnws/nl/2022/01/25/coronablog-25-januari-2021/)
