@@ -6,6 +6,7 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ### Februari 2022
 
+* 3 februari 2022: geen blog voor deze dag
 * [2 februari 2022](https://www.vrt.be/vrtnws/nl/2022/02/02/coronablog-2-februari-2022/)
 * 1 februari 2022: geen blog voor deze dag
 
