@@ -6,7 +6,8 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ### Februari 2022
 
-* 13 februari 2022: geen blog voor deze dag
+* [16 februari 2022](https://www.vrt.be/vrtnws/nl/2022/02/16/coronablog-16-februari-2022/)
+* Tussentijds was er geen blog.
 * [12 feburari 2022](https://www.vrt.be/vrtnws/nl/2022/02/12/coronablog-12-februari-2021/)
 * [11 februari 2022](https://www.vrt.be/vrtnws/nl/2022/02/11/coronablog-11-februari/)
 * [10 februari 2022](https://www.vrt.be/vrtnws/nl/2022/02/10/coronablog-10-februari-2021/)
