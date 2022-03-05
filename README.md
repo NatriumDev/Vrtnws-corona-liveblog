@@ -4,8 +4,13 @@ Een overzicht van elke dagelijkse corona-liveblog van [VRTNWS](https://www.vrt.b
 
 ## 2022
 
+### Maart 2022
+
+* [4 maart 2022](https://www.vrt.be/vrtnws/nl/2022/03/04/liveblog-corona-vrijdag-4-maart-2022/)
+* Tussentijds was er geen blog.
 ### Februari 2022
 
+* Tussentijds was er geen blog.
 * [16 februari 2022](https://www.vrt.be/vrtnws/nl/2022/02/16/coronablog-16-februari-2022/)
 * Tussentijds was er geen blog.
 * [12 feburari 2022](https://www.vrt.be/vrtnws/nl/2022/02/12/coronablog-12-februari-2021/)
